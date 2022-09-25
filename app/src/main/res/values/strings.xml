@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="movie">Movie</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="watch_list">Watch List</string>
+    <string name="title">Title : %1$s</string>
+    <string name="release_date">Release Date : %1$s</string>
+    <string name="average_rating">%1$s/10</string>
+    <string name="icon_rating_star">Icon Rating Star</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="popular">Popular</string>
+    <string name="categories">Categories</string>
+    <string name="find_your_movies">Find Your Movies</string>
+    <string name="search_here">Search Here …</string>
+    <string name="find_your_tv_shows">Find Your TV Shows</string>
+    <string name="on_the_air">On The Air</string>
+    <string name="airing_today">Airing Today</string>
+    <string name="search">Search</string>
+    <string name="button_close">Button Close</string>
+    <string name="text_placeholder">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut blanditiis commodi facere impedit ratione. Ab, aperiam dignissimos distinctio dolorem eligendi et ipsam molestias non nulla possimus quas sit tenetur vel.</string>
+    <string name="backdrop_image">Backdrop Image</string>
+    <string name="overviews">Overviews :</string>
+    <string name="release_date_label">Release Date</string>
+    <string name="rate_count_label">Rate Count</string>
+    <string name="popularity">Popularity</string>
+    <string name="type">Type</string>
+    <string name="button_watch_list">Button Watch List</string>
+    <string name="logo">Logo</string>
+    <string name="reviewer_name">Name : %1$s</string>
+    <string name="reviews">Reviews</string>
+    <string name="btn_list_review">Button List Review</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/movie"
+        android:icon="@drawable/ic_baseline_movie_creation_24"/>
+
+    <item
+        android:title="@string/tv_shows"
+        android:icon="@drawable/ic_baseline_slow_motion_video_24"/>
+
+    <item
+        android:title="@string/watch_list"
+        android:icon="@drawable/ic_baseline_bookmark_24"/>
+</menu>
